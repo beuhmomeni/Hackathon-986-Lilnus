@@ -1,4 +1,4 @@
-# JUDUL PROJEK : Bot Sampah.
+# Bot Sampah.
 
 ## IDE PROJEK
 Bot discord klasifikasi sampah beserta cara penanggulangan 
